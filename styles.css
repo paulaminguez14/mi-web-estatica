@@ -6,15 +6,15 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
-    color: #382b43;
+    font-family: sans-serif;
+    background-color: #fff8cc;
+    color: #391111;
     line-height: 1.6;
 }
 
 /* Estilos para la cabecera */
 header {
-    background-color: #b94ae2;
+    background-color: #511e1e;
     color: white;
     padding: 20px;
     text-align: center;
@@ -23,7 +23,7 @@ header {
 }
 
 header .logo {
-    width: 50px;
+    width: 90px;
     position: absolute;
     top: 15px;
     left: 15px;
@@ -38,7 +38,7 @@ header .logo {
 /* Estilos para el menú lateral izquierdo */
 .sidebar {
     width: 20%;
-    background-color: #333;
+    background-color: #4a1010b1;
     padding: 20px;
     color: white;
 }
@@ -58,18 +58,18 @@ header .logo {
 }
 
 .sidebar ul li a:hover {
-    color: #4a90e2;
+    color: #511e1e;
 }
 
 /* Estilos para el contenido principal */
 .main-content {
     flex-grow: 1;
     padding: 20px;
-    background-color: #fff;
+    background-color: #fff0d9;
 }
 
 .main-content h2 {
-    color: #333;
+    color: #300c0c;
 }
 
 .main-content p {
@@ -80,7 +80,7 @@ header .logo {
 button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #4a90e2;
+    background-color: #511e1e;
     color: white;
     border: none;
     cursor: pointer;
@@ -89,12 +89,12 @@ button {
 }
 
 button:hover {
-    background-color: #357ab7;
+    background-color: #511e1ee0;
 }
 
 /* Pie de página */
 footer {
-    background-color: #4a90e2;
+    background-color: #511e1e;
     color: white;
     text-align: center;
     padding: 10px;
