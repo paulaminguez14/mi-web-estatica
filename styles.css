@@ -8,13 +8,13 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
-    color: #333;
+    color: #382b43;
     line-height: 1.6;
 }
 
 /* Estilos para la cabecera */
 header {
-    background-color: #4a90e2;
+    background-color: #b94ae2;
     color: white;
     padding: 20px;
     text-align: center;
